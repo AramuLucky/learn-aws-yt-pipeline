@@ -6,7 +6,7 @@
 
 <h3 align="center">Cr. Darshil Parmar</h3>
 
-<h2 align="center">Step Functions</h2>
+<h1 align="center">Step Functions</h1>
 
 <p align="center">
   <img src="https://github.com/AramuLucky/learn-aws-yt-pipeline/blob/b3ef7c9ce59c6280c2f14cf71b5482b8e6bab50a/StepFunctions.png" alt="Pipeline's Picture">
